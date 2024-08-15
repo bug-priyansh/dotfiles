@@ -75,7 +75,9 @@ Neovim:
 sudo apt -y install neovim
 ```
 
-%% ## Plugins
+
+<!--
+## Plugins
 
 #### Plugin Manager
 
@@ -185,4 +187,5 @@ sudo apt -y install neovim
 #### Git
 
 - [lewis6991/gitsigns.nvim](https://github.com/lewis6991/gitsigns.nvim) - Show modifications on left hand side and interact with git hunks
-- [kdheepak/lazygit.nvim](https://github.com/kdheepak/lazygit.nvim) - Use lazygit within Neovim %%
+- [kdheepak/lazygit.nvim](https://github.com/kdheepak/lazygit.nvim) - Use lazygit within Neovim
+-->
