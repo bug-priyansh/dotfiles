@@ -1,0 +1,40 @@
+{
+  "settings": {
+    "migrated": 4,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "none",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "SiRoadmapdotsh",
+      "FasFilePdf",
+      "TiNote",
+      "TiBooks",
+      "CoBook"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInFrontmatterEnabled": false,
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconIdentifier": ":"
+  },
+  "05 GitHub/profile readme.md": "RiProfileLine",
+  "01 Checkbox": "FiCheckSquare",
+  "02 Homelab": "TiServerBolt",
+  "03 BugBounty": "FasBugs",
+  "04 Excalidraw": "IbPencil",
+  "05 GitHub": "IbGithub",
+  "06 Research": "TiBooks",
+  "07 Notes": "TiNote",
+  "pdf": "FasFilePdf",
+  "Roadmap": "SiRoadmapdotsh"
+}
