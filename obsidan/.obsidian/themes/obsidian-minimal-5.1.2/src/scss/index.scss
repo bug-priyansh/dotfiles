@@ -1,0 +1,125 @@
+/* Variables */
+@import 'variables/root';
+@import 'variables/dynamic-color';
+@import 'variables/theme';
+@import 'variables/adaptive-font-size';
+
+/* Disabled features */
+@import 'obsidian/disabled';
+
+/* Obsidian */
+@import 'obsidian/blockquotes';
+@import 'obsidian/checklists';
+@import 'obsidian/code-blocks';
+@import 'obsidian/dragging';
+@import 'obsidian/editor';
+@import 'obsidian/editor-legacy';
+@import 'obsidian/fonts';
+@import 'obsidian/frontmatter';
+@import 'obsidian/file-nav';
+@import 'obsidian/folding';
+@import 'obsidian/icons';
+@import 'obsidian/links';
+@import 'obsidian/lists';
+@import 'obsidian/modals';
+@import 'obsidian/menus';
+@import 'obsidian/preview';
+@import 'obsidian/preview-backlinks';
+@import 'obsidian/preview-embedded-search';
+@import 'obsidian/preview-transclusions';
+@import 'obsidian/ribbon';
+@import 'obsidian/scrollbars';
+@import 'obsidian/search-replace';
+@import 'obsidian/settings';
+@import 'obsidian/status-bar';
+@import 'obsidian/syntax';
+@import 'obsidian/tables';
+@import 'obsidian/tags';
+@import 'obsidian/tag-pane';
+@import 'obsidian/tooltips';
+@import 'obsidian/title-bar';
+@import 'obsidian/window-frame';
+@import 'obsidian/workspace';
+
+/* Components */
+@import 'components/audio';
+@import 'components/buttons';
+@import 'components/dropdowns';
+@import 'components/inputs';
+@import 'components/progress';
+@import 'components/slider';
+@import 'components/toggles';
+
+/* Minimal features */
+@import 'features/borders';
+@import 'features/cards';
+@import 'features/colorful-active-states';
+@import 'features/colorful-headings';
+@import 'features/custom-icons';
+@import 'features/fancy-cursor';
+@import 'features/file-nav-relations';
+@import 'features/focus-mode';
+@import 'features/folding-offset';
+@import 'features/full-width-media';
+@import 'features/helpers-tables';
+@import 'features/image-filters';
+@import 'features/image-grid';
+@import 'features/image-zoom';
+@import 'features/labeled-nav';
+@import 'features/layout-control';
+@import 'features/line-width';
+@import 'features/link-underline';
+@import 'features/relationship-lines';
+@import 'features/scroll-indicator';
+@import 'features/sidebar-notes';
+@import 'features/translucent';
+@import 'features/trim-file-names';
+@import 'features/underline-headings';
+
+/* Mobile */
+@import 'mobile/mobile';
+@import 'mobile/ios';
+
+/* Core plugins */
+@import 'plugins-core/backlinks-outlinks';
+@import 'plugins-core/graph';
+@import 'plugins-core/outline';
+@import 'plugins-core/page-preview';
+@import 'plugins-core/prompt';
+@import 'plugins-core/publish';
+@import 'plugins-core/search';
+@import 'plugins-core/sync';
+
+/* Community plugins */
+@import 'plugins/banner';
+@import 'plugins/buttons';
+@import 'plugins/calendar';
+@import 'plugins/checklist';
+@import 'plugins/cmenu';
+@import 'plugins/contextual-typography';
+@import 'plugins/dataview';
+@import 'plugins/dictionary';
+@import 'plugins/excalidraw';
+@import 'plugins/electron-window';
+@import 'plugins/embedded-note-titles';
+@import 'plugins/git';
+@import 'plugins/hider';
+@import 'plugins/indentation-guides';
+@import 'plugins/kanban';
+@import 'plugins/leaflet';
+@import 'plugins/map-view';
+@import 'plugins/outliner';
+@import 'plugins/quickadd';
+@import 'plugins/sliding-panes';
+@import 'plugins/sortable';
+@import 'plugins/style-settings';
+@import 'plugins/tabs';
+
+/* Color schemes */
+@import 'color-schemes/dracula';
+@import 'color-schemes/gruvbox';
+@import 'color-schemes/macos';
+@import 'color-schemes/nord';
+@import 'color-schemes/notion';
+@import 'color-schemes/solarized';
+@import 'color-schemes/things';
