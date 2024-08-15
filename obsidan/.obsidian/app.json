@@ -1,0 +1,11 @@
+{
+  "showInlineTitle": false,
+  "foldIndent": true,
+  "readableLineLength": true,
+  "showRibbon": true,
+  "trashOption": "local",
+  "alwaysUpdateLinks": true,
+  "showUnsupportedFiles": true,
+  "attachmentFolderPath": "_Attachments",
+  "promptDelete": false
+}
