@@ -1,0 +1,24 @@
+[/]
+audible-bell=false
+background-color='rgb(26,35,50)'
+bold-color='rgb(92,178,255)'
+bold-color-same-as-fg=false
+cursor-background-color='rgb(92,236,198)'
+cursor-blink-mode='on'
+cursor-colors-set=true
+cursor-foreground-color='rgb(49,63,85)'
+cursor-shape='underline'
+default-size-columns=82
+default-size-rows=24
+font='JetBrains Mono 12'
+foreground-color='rgb(164,177,205)'
+highlight-background-color='rgb(49,63,85)'
+highlight-colors-set=true
+highlight-foreground-color='rgb(255,255,255)'
+login-shell=false
+palette=['rgb(0,0,0)', 'rgb(255,62,62)', 'rgb(159,239,0)', 'rgb(255,175,0)', 'rgb(0,76,255)', 'rgb(159,0,255)', 'rgb(46,231,182)', 'rgb(255,255,255)', 'rgb(102,102,102)', 'rgb(255,132,132)', 'rgb(197,244,103)', 'rgb(255,204,92)', 'rgb(92,178,255)', 'rgb(193,108,250)', 'rgb(92,236,198)', 'rgb(255,255,255)']
+scrollbar-policy='never'
+use-custom-command=false
+use-system-font=false
+use-theme-colors=false
+visible-name='HackTheBox'
