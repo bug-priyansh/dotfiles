@@ -49,7 +49,7 @@ If you are opening a lua file or another file I have language servers configured
 
 ### Setup Requires
 
-- True Color Terminal Like: [Color Scheme](.colorscheme/)
+- True Color Terminal Like: [Color Scheme](hackthebox.dconf)
 - [Neovim](https://neovim.io/) (Version 0.9 or Later)
 - [Nerd Font](https://www.nerdfonts.com/) - I use Space mono Font
 
