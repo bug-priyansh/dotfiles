@@ -51,7 +51,7 @@ If you are opening a lua file or another file I have language servers configured
 
 - True Color Terminal Like: [Color Scheme](hackthebox.dconf)
 - [Neovim](https://neovim.io/) (Version 0.9 or Later)
-- [Nerd Font](https://www.nerdfonts.com/) - I use Space mono Font
+- [Font](.fonts/) - I use Space mono Font
 
 If you're on mac, like me, you can install iTerm2, Neovim, Meslo Nerd Font, Ripgrep and Node with homebrew.
 
