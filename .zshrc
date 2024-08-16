@@ -138,14 +138,3 @@ function set_win_title(){
     echo -ne "\033]0; codesniper.kali {$PWD} \007"
 }
 precmd_functions+=(set_win_title)
-
-### ---- BugBounty -----------------------------------
-export router="192.168.29.1"
-export ip1="192.168.29.201"
-export ip2="192.168.29.202"
-export ip3="192.168.29.203"
-export ip4="192.168.29.204"
-export ip5="192.168.29.205"
-export ip6="192.168.29.206"
-export ip7="192.168.29.207"
-export ip8="192.168.29.208"
