@@ -1,6 +1,6 @@
 # My Dev Environment Files 🚀
 ----
-%% Image %%
+
 
 **Hey, there!**
 **I’m Priyansh, and I’m Tech nerds.**
@@ -12,7 +12,7 @@ This Repository **Dotfiles** contain my personal config files. Here you'll find 
 # Terminal Setup
 
 After some recommendations, I've swapped out xfce4-terminal for [Gnome Terminal](https://help.gnome.org/users/gnome-terminal/stable/)!
-%% Everything is the same excespt the Alacritty config file, you can swap it out with this [~/.wezterm.lua](.wezterm.lua) file and everything should look and work very similar to Alacritty! %%
+
 
 You'll also need to install extra cli tools as described in this blog post and video:
 - [fzf](https://github.com/junegunn/fzf.git)
