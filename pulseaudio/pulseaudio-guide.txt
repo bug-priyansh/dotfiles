@@ -1,0 +1,9 @@
+step1: change "daemonize" from no to yes in /etc/pulse/daemon.conf
+step2: mv pulseaudio.service to /etc/systemd/system/
+step3: "systemctl enable pulseaudio && systemctl start pulseaudio"
+step4: "systemctl start pulseaudio"
+
+[if above commands not work Optional]
+step4: "systemctl start pulseaudio.socket"
+step5: "systemctl start pulseaudio.service"
+step6: "systemctl start pulseaudio"
