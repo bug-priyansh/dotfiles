@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=Pulseaudio system
+Comment=Sync your files across computers and to the web
+Exec= sudo systemctl enable pulseaudio && sudo systemctl start pulseaudio
+Terminal=false
+Type=Application
+StartupNotify=false
