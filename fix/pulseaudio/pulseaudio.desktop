@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Exec=sudo systemctl enable pulseaudio && sudo systemctl start pulseaudio
+Hidden=false
+NoDisplay=false
+X-GNOME-Autostart-enabled=true
+Name=Pulseaudio system

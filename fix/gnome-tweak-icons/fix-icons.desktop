@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Exec=gsettings set org.gnome.desktop.interface icon-theme Tela-purple
+Hidden=false
+NoDisplay=false
+X-GNOME-Autostart-enabled=true
+Name=Fix Icons
