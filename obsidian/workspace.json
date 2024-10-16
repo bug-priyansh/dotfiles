@@ -1,0 +1,212 @@
+{
+  "main": {
+    "id": "dab6c01d75721a71",
+    "type": "split",
+    "children": [
+      {
+        "id": "be02b1bb257b4832",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cff4e3e162ee8c01",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Readme.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2207f419ddb9d23b",
+    "type": "split",
+    "children": [
+      {
+        "id": "d86930c758d8257d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2ec4c8bbb4033037",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "41d86810b0089044",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b74ef88c20211ebe",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 225.5
+  },
+  "right": {
+    "id": "de002d48c1323092",
+    "type": "split",
+    "children": [
+      {
+        "id": "31af827de1661f5f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aa2fe18a98af6b21",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Readme.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bebeb7fc65c32e51",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Readme.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f6637a49a4b01c5e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "bf0e210415ef5e86",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Readme.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": true,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": true,
+      "obsidian-projects:Open projects": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-kanban:Create new board": false
+    }
+  },
+  "active": "cff4e3e162ee8c01",
+  "lastOpenFiles": [
+    "_archives/Gnome Customization/files.png",
+    "_archives/Gnome Customization/exiftool.png",
+    "_archives/Gnome Customization/desktop.png",
+    "_archives/Gnome Customization/Color_Scheme.png",
+    "Linux Rice/Gnome-Terminal Color Scheme.md",
+    "_archives/Gnome Customization/google_chrome & spotify.png",
+    "_archives/Gnome Customization/google chrome.png",
+    "_archives/Gnome Customization/gnome_tweak theme.png",
+    "_archives/Gnome Customization/gnome_tweak font.png",
+    "_archives/Gnome Customization/files & neofetch.png",
+    "_archives/Gnome Customization/Palette.png",
+    "_archives/Gnome Customization/obsidian.png",
+    "_archives/Virtual-homelab.canvas",
+    "_archives/Instagram.md",
+    "_archives/HomeLab.bak.md",
+    "_archives/Fiber Info.md",
+    "_archives/Bitwarden Backup.md",
+    "_archives/Gnome Customization/Screenshot from 2023-12-09 19-29-34_.png_readme(20).md",
+    "Linux Rice/Gnome Tweaks Overall.md",
+    "Linux Rice/Gnome Tweaks.md",
+    "Linux Rice/Gnome Extensions.md",
+    "Linux Rice/Applications.md",
+    "Linux Rice/Dock Apps.md",
+    "Linux Rice/Linux Setting-up.md",
+    "Linux Rice/Linux Checklist.md",
+    "Linux Rice/Tools.md",
+    "02 Homelab/Linux Custom Tools.md",
+    "Mobile Rice/Mobile Setup.md",
+    "Windows Rice",
+    "Mobile Rice",
+    "Mobile Rice/mobiles.md",
+    "Windows Rice/Windows Checklist.md",
+    "01 Checkbox/#Accounts.md",
+    "01 Checkbox/Checkbox.md",
+    "01 Checkbox/CTF Links.md",
+    "01 Checkbox/Fundamental Skills.md",
+    "01 Checkbox/Network_JioRouter.md",
+    "01 Checkbox/Search Engines.md",
+    "02 Homelab/Apps/Github Linux Tools.md",
+    "_templates",
+    "_inbox/Gmail.canvas",
+    "_inbox/Bookmark.canvas",
+    "_attachments/Excalidraw/it-icons.excalidrawlib",
+    "_attachments/Excalidraw",
+    "_archives/Gnome Customization",
+    "05 Notes/DIGITAL FORENSICS.canvas",
+    "03 BugBounty/Wordlists",
+    "03 BugBounty/Scripts",
+    "03 BugBounty/Screenshots",
+    "03 BugBounty/Reports",
+    "DIGITAL FORENSICS.canvas",
+    "_Archives/DIGITAL FORENSICS.canvas",
+    "06 Research/Paper/Resume.canvas",
+    "00 Checklist/Homelab.canvas",
+    "Excalidraw/virtual-homelab.canvas",
+    "Virtual Lab.canvas"
+  ]
+}
