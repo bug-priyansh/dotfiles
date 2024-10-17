@@ -1,6 +1,6 @@
 # My Dev Environment Files 🚀
 ----
-%% Image %%
+<!-- %% Image %% -->
 
 **Hey, there!**
 **I’m Priyansh, and I’m Tech nerds.**
@@ -186,4 +186,14 @@ sudo apt -y install neovim
 
 - [lewis6991/gitsigns.nvim](https://github.com/lewis6991/gitsigns.nvim) - Show modifications on left hand side and interact with git hunks
 - [kdheepak/lazygit.nvim](https://github.com/kdheepak/lazygit.nvim) - Use lazygit within Neovim
+
+# Nautilus Setup
+
+### Nautilus Extensions
+
+- nautilus-copypath
+- nautilus-gnome-disks
+- nautilus-nec
+- nautilus-search-by-image
+- OpenInBlackBox
 
