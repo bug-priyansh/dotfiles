@@ -142,22 +142,44 @@ unset __conda_setup
 ### ---- ZSH Shortcuts alias -----------------------------------
 # >>> Alias initialize >>>
 # system
-alias c="clear"
-alias up="sudo apt update"
-alias ug="sudo apt -y full-upgrade"
-alias fup="sudo apt update && sudo apt -y upgrade"
+alias c="clear" # clear the terminal
+alias up="sudo apt update" # update the system
+alias ug="sudo apt -y full-upgrade" # upgrade the system
+alias fup="sudo apt update && sudo apt -y upgrade" # update and upgrade the system
 alias os-info-short="cat /etc/os-release"
-alias clear-swap="sudo swapoff -a; sudo swapon -a"
-alias sudo-i="sudo apt install -y"
+alias clear-swap="sudo swapoff -a; sudo swapon -a" # clear swap memory
+alias sudo-i="sudo apt install -y" # Install Applications
+alias o="nautilus ." # Open the current directory in Finder
+alias ghost="gs" # replace ghostscript command so git status works properly
 
 # dir
-alias gprj="cd $HOME/Documents/Projects"
-alias setting-open-vscode="vcode ~/.config/Code/User/settings.json"
+alias gprj="cd $HOME/Documents/Projects" # open project folder in terminal   
+alias vsetting="code ~/.config/Code/User/settings.json" # open visual studio code setting in vscode
 
 # applications
-alias postman="cd ~/Postman && ./Postman"
-alias code="open -a 'Visual Studio Code'"
-alias vcode="/usr/share/code/bin/code"
+alias postman="cd ~/Postman && ./Postman" # open postman 
+# alias code="open -a 'Visual Studio Code'"
+alias code="/usr/share/code/bin/code" # open vscode
+
+# git
+alias gi='git init'
+alias gro='git remote add origin'
+alias ga='git add'
+alias gaa='git add .'
+alias gcm='git commit -m'
+alias gpsh='git push'
+alias gpsho='git push -u origin'
+alias gss='git status -s'
+alias gs='echo ""; echo "*********************************************"; echo -e "   DO NOT FORGET TO PULL BEFORE COMMITTING"; echo "*********************************************"; echo ""; git status'
+
+# pnpm
+alias p="pnpm"
+alias pi="pnpm install"
+alias pa="pnpm add"
+alias pd="pnpm dev"
+alias pb="pnpm build"
+alias pr="pnpm run"
+alias psd="pnpm start:dev"
 
 # BugBounty
 # <<< Alias initialize <<<
